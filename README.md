@@ -1,18 +1,88 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Data Structures & Algorithms (LeetCode)<br><br>Backend development with Java, Spring Boot, MongoDB<br><br>Building real-world projects to strengthen system design basics<br><br>👯 I’m looking to collaborate on<br><br>Java / Spring Boot backend projects<br><br>Open-source beginner-friendly repositories<br><br>DSA-focused study or practice projects<br><br>🤝 I’m looking for help with<br><br>Advanced DSA optimization<br><br>Scalable backend architecture<br><br>Clean code & best practices in Spring Boot<br><br>🌱 I’m currently learning<br><br>Advanced Java & JVM internals<br><br>Spring Security & REST API design<br><br>Basics of System Design<br><br>💬 Ask me about<br><br>Java & OOP concepts<br><br>DSA (arrays, strings, linked lists, stacks, queues)<br><br>Git & GitHub workflows<br><br>⚡ Fun fact<br><br>I enjoy debugging more than writing fresh code 😄
+<!-- ===== Animated Banner ===== -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+    alt="snake"
+  />
+</p>
 
+<p align="center"><b>Consistency beats intensity.</b></p>
 
-## 🌐 Socials:
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Abhinav-3712) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhinavKumarTiwari53&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbhinavKumarTiwari53&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavKumarTiwari53&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ===== Typing Header ===== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hey+there+👋,+I'm+Abhinav+Tiwari;Backend+Developer+%7C+Java+%26+Spring+Boot;DSA+Focused+%7C+300%2B+LeetCode+Problems;Building+Clean+%26+Scalable+Systems" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbhinavKumarTiwari53&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">
+💻 Backend Developer • ☕ Java & Spring Boot • 🧠 DSA Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhinavKumarTiwari53&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 💫 About Me
+
+💻 **B.Tech Computer Science Engineering (3rd Year)**  
+🇮🇳 Based in **India**  
+☕ Primary language: **Java**  
+🧠 Strong focus on **Data Structures & Algorithms**  
+⚙️ Backend development with **Spring Boot, REST APIs & Databases**  
+📈 Regular **LeetCode problem solver (300+ problems)**  
+🚀 Interested in **scalable systems, backend architecture & clean code**  
+🎯 Actively preparing for **SDE internships & placements**
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,nodejs,react,html,css,git,github&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=nodemon&logoColor=BBDEAD"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AbhinavKumarTiwari53&theme=dark&hide_border=true" height="165"/>
+</p>
+
+
+---
+
+<p align="center">
+  <b>“Simplicity is prerequisite for reliability.”</b><br/>
+  — Edsger W. Dijkstra
+</p>
+
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AbhinavKumarTiwari53&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+<!-- ===== MODERN HERO ===== -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"
+  />
+</p>
+
+
+
+<p align="center"><b>“Write code that scales. Think before you optimize.”</b></p>
