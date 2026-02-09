@@ -51,15 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AbhinavKumarTiwari53&theme=dark&hide_border=true" height="165"/>
-</p>
-
-
----
-
 <p align="center">
   <b>“Simplicity is prerequisite for reliability.”</b><br/>
   — Edsger W. Dijkstra
